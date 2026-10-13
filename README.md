@@ -11,7 +11,7 @@ I work on cloud architecture and platform engineering, and build small, practica
 
 ## Browser experiments
 
-**[Sense6](https://sense6.net/en/)** is a free collection of five short browser experiments about colour perception, reaction time, hearing, and visual detail, with research guides in multiple languages. Results depend on the device and conditions; these experiments are recreational and **not medical tests or diagnoses**. Individual answers and results stay in your browser. The Sense6 source repository is currently private while the project is in development.
+**[Sense6](https://sense6.net/en/)** is a free collection of five short browser experiments about colour perception, reaction time, hearing, and visual detail, with research guides in multiple languages. Results depend on the device and conditions; these experiments are recreational and **not medical tests or diagnoses**. Individual answers and results stay in your browser. The [Sense6 source repository](https://github.com/Ponchia/sense6) is public; see its documentation for development status and limitations.
 
 ## Elsewhere
 
