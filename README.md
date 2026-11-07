@@ -1,35 +1,82 @@
-# Zeno Trevisan · Ponchia
+<p align="right">
+  <a href="https://brontolotto.observer/">Website ↗</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/trevisanzeno/">LinkedIn ↗</a>
+</p>
 
-Cloud architect and platform engineer working on Kubernetes, cloud infrastructure, and open-source tools for developers and the web.
+### zeno.
 
-## Choose a starting point
+<sub>CLOUD ARCHITECT & SOFTWARE ENGINEER / INDEPENDENT PROJECTS</sub>
 
-| What you need | Project | Try it |
-| --- | --- | --- |
-| Build a dashboard or developer interface with ordinary HTML | **[Bronto UI](https://github.com/Ponchia/bronto-ui)** — CSS-first components, tokens and optional JavaScript behaviors; available on npm | [Interactive examples](https://ponchia.github.io/bronto-ui/examples/) |
-| Add explanatory notes to an existing chart or diagram | **[Bronto Annotations](https://github.com/Ponchia/bronto-annotations)** — headless placement and connector routing with optional renderers; stable npm release and a separate 0.7 candidate | [Placement playground](https://ponchia.github.io/bronto-annotations/#playground) |
-| Check responsive relationships that pixel or overflow checks miss | **[Bronto Layout](https://github.com/Ponchia/bronto-layout)** — local CLI and explicit layout contracts; experimental GitHub beta | [A controlled alignment regression](https://github.com/Ponchia/bronto-layout/blob/main/docs/portfolio-regression-case-study.md) |
-| Keep diagrams, charts and timelines editable across views | **[Bronto Visual Models](https://github.com/Ponchia/bronto-visual-models)** — identified content, guarded edits and optional views; installable GitHub beta | [Live demo](https://ponchia.github.io/bronto-visual-models/) · [First model](https://github.com/Ponchia/bronto-visual-models/blob/main/docs/getting-started.md) |
-| Connect Vaultwarden or Bitwarden Password Manager vault items to Kubernetes Secrets | **[Vaultwarden ESO Provider](https://github.com/Ponchia/vaultwarden-eso-provider)** — Rust webhook provider for External Secrets Operator; release candidate, with Cloud acceptance still pending | [Compatibility and limits](https://github.com/Ponchia/vaultwarden-eso-provider/blob/main/docs/compatibility.md) |
-| Explore perception and response timing in the browser | **[Sense6](https://github.com/Ponchia/sense6)** — five recreational experiments with a local journal; device-relative results, not medical tests | [Try Sense6](https://sense6.net/en/) |
+I build software and the infrastructure behind it, usually starting with a problem I keep running into.
+
+I work on cloud platforms and developer tools, and make small experiments when something catches my interest. Some of them end up open source.
+
+## Selected work
+
+A few things I've built or keep working on.
+
+---
+
+<sub>01 / OPEN SOURCE</sub>
+
+**[Bronto UI ↗](https://github.com/Ponchia/bronto-ui)**
+
+CSS-first components, design tokens, and optional JavaScript behaviors for ordinary HTML. [Interactive examples →](https://ponchia.github.io/bronto-ui/examples/)
+
+---
+
+<sub>02 / OPEN SOURCE</sub>
+
+**[Bronto Annotations ↗](https://github.com/Ponchia/bronto-annotations)**
+
+Headless annotations and connector routing for existing charts and diagrams, with optional renderers. [Placement playground →](https://ponchia.github.io/bronto-annotations/#playground)
+
+---
+
+<sub>03 / OPEN SOURCE</sub>
+
+**[Bronto Layout ↗](https://github.com/Ponchia/bronto-layout)**
+
+A local CLI for checking responsive relationships with explicit layout contracts. [See a controlled regression →](https://github.com/Ponchia/bronto-layout/blob/main/docs/portfolio-regression-case-study.md)
+
+---
+
+<sub>04 / OPEN SOURCE</sub>
+
+**[Bronto Visual Models ↗](https://github.com/Ponchia/bronto-visual-models)**
+
+Editable diagrams, charts, and timelines with identified content and guarded changes. [Live demo →](https://ponchia.github.io/bronto-visual-models/) · [First model →](https://github.com/Ponchia/bronto-visual-models/blob/main/docs/getting-started.md)
+
+---
+
+<sub>05 / OPEN SOURCE</sub>
+
+**[Vaultwarden ESO Provider ↗](https://github.com/Ponchia/vaultwarden-eso-provider)**
+
+Bring Bitwarden-compatible vault secrets into Kubernetes through External Secrets Operator. [Compatibility and limits →](https://github.com/Ponchia/vaultwarden-eso-provider/blob/main/docs/compatibility.md)
+
+---
+
+<sub>06 / EXPERIMENT</sub>
+
+**[Sense6 ↗](https://github.com/Ponchia/sense6)**
+
+Small browser experiments that explore perception and response timing, with results relative to the device rather than medical measurements. [Try Sense6 →](https://sense6.net/en/)
+
+---
 
 ## Bronto in practice
 
-Bronto UI's own website uses Bronto Layout in its required CI: the site owns its
-responsive contracts, and intentional overflow and alignment regressions must
-fail before deployment. Visual Models has a separate installed-package example
-that demonstrates preview, replay, stale-edit refusal and undo without a server.
+Bronto UI uses Bronto Layout in its required website CI, including controlled alignment and overflow regressions. Visual Models has a separate installed-package example demonstrating preview, replay, stale-edit refusal, and undo.
 
-[Read the integration case study and reproduce the checks](docs/bronto-in-practice.md).
-These are first-party integrations and controlled examples, not claims of
-independent adoption or complete user-experience validation.
+[Read the integration case study →](docs/bronto-in-practice.md) These are first-party examples, not claims of independent adoption or complete user-experience validation.
 
-## Supporting projects
+## Also building
 
-**[Bronto Pulse](https://github.com/Ponchia/bronto-pulse)** keeps private project-analytics history and evidence reports from GitHub, npm, Cloudflare and Search Console. It is a public source preview; live provider and operational validation remain separate from fixture tests.
+**[Bronto Pulse ↗](https://github.com/Ponchia/bronto-pulse)** — private-by-default project analytics and evidence reports from GitHub, npm, Cloudflare, and Search Console. The public code and fixture tests are separate from live-provider validation.
 
-**[Web Tooling](https://github.com/Ponchia/web-tooling)** provides reusable GitHub Actions checks for independent static websites. Each site retains its own deployment and credentials.
+**[Web Tooling ↗](https://github.com/Ponchia/web-tooling)** — reusable GitHub Actions checks for independent static websites, with deployment and credentials owned by each site.
 
-## Elsewhere
+---
 
-[Personal website](https://brontolotto.observer/) · [Ko-fi](https://ko-fi.com/ponchia)
+<sub>Zeno Trevisan</sub> · [Personal website ↗](https://brontolotto.observer/) · [LinkedIn ↗](https://www.linkedin.com/in/trevisanzeno/) · [Ko-fi ↗](https://ko-fi.com/ponchia)
