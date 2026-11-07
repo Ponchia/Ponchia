@@ -19,29 +19,13 @@ A few things I've built or keep working on.
 
 <sub>01 / OPEN SOURCE</sub>
 
-**[Bronto UI ↗](https://github.com/Ponchia/bronto-ui)**
+**[Bronto UI ↗](https://github.com/Ponchia/bronto-ui) · [Bronto Annotations ↗](https://github.com/Ponchia/bronto-annotations) · [Bronto Layout ↗](https://github.com/Ponchia/bronto-layout)**
 
-CSS-first components, design tokens, and optional JavaScript behaviors for ordinary HTML. [Interactive examples →](https://ponchia.github.io/bronto-ui/examples/)
+Independent tools for building, explaining, and validating web interfaces. [UI examples →](https://ponchia.github.io/bronto-ui/examples/) · [Annotations playground →](https://ponchia.github.io/bronto-annotations/#playground) · [Layout regression →](https://github.com/Ponchia/bronto-layout/blob/main/docs/portfolio-regression-case-study.md)
 
 ---
 
 <sub>02 / OPEN SOURCE</sub>
-
-**[Bronto Annotations ↗](https://github.com/Ponchia/bronto-annotations)**
-
-Headless annotations and connector routing for existing charts and diagrams, with optional renderers. [Placement playground →](https://ponchia.github.io/bronto-annotations/#playground)
-
----
-
-<sub>03 / OPEN SOURCE</sub>
-
-**[Bronto Layout ↗](https://github.com/Ponchia/bronto-layout)**
-
-A local CLI for checking responsive relationships with explicit layout contracts. [See a controlled regression →](https://github.com/Ponchia/bronto-layout/blob/main/docs/portfolio-regression-case-study.md)
-
----
-
-<sub>04 / OPEN SOURCE</sub>
 
 **[Bronto Visual Models ↗](https://github.com/Ponchia/bronto-visual-models)**
 
@@ -49,7 +33,7 @@ Editable diagrams, charts, and timelines with identified content and guarded cha
 
 ---
 
-<sub>05 / OPEN SOURCE</sub>
+<sub>03 / OPEN SOURCE</sub>
 
 **[Vaultwarden ESO Provider ↗](https://github.com/Ponchia/vaultwarden-eso-provider)**
 
@@ -57,7 +41,7 @@ Bring Bitwarden-compatible vault secrets into Kubernetes through External Secret
 
 ---
 
-<sub>06 / EXPERIMENT</sub>
+<sub>04 / EXPERIMENT</sub>
 
 **[Sense6 ↗](https://github.com/Ponchia/sense6)**
 
