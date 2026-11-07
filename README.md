@@ -3,8 +3,6 @@
   <a href="https://www.linkedin.com/in/trevisanzeno/">LinkedIn ↗</a>
 </p>
 
-### zeno.
-
 <sub>CLOUD ARCHITECT & SOFTWARE ENGINEER / INDEPENDENT PROJECTS</sub>
 
 I build software and the infrastructure behind it, usually starting with a problem I keep running into.
