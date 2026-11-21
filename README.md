@@ -41,9 +41,15 @@ and credentials.
 
 ## Browser experiments
 
-**[Sense6](https://sense6.net/en/)** explores perception and response timing,
-with a private local journal. Results describe a task on a particular device;
-they are not medical measurements. [Source and methods](https://github.com/Ponchia/sense6).
+**[Sense6](https://sense6.net/en/)** explores how we see, hear, and react through
+five recreational browser experiments and a private local journal. Each observation
+depends on the task, device, and setup; these are not medical measurements.
+
+Try an [interactive browser-timing explanation](https://sense6.net/en/browser-timing-explorer/)
+to explore how two hypothetical devices can report different intervals, or use the
+[free classroom activity and printable worksheet](https://sense6.net/education/browser-reaction-time/)
+to discuss medians and measurement uncertainty. Neither requires an account or
+sharing anyone's results. [Source and methods](https://github.com/Ponchia/sense6).
 
 ## Evidence and contributions
 
